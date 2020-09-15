@@ -982,7 +982,7 @@ PrefabInstance:
         type: 3}
       propertyPath: fraskText
       value: 
-      objectReference: {fileID: 1198536637}
+      objectReference: {fileID: 480025489}
     - target: {fileID: 2872969762598887429, guid: ef802d64691d8db4eb0af354c49a21e6,
         type: 3}
       propertyPath: m_SortingOrder
@@ -1418,7 +1418,7 @@ PrefabInstance:
         type: 3}
       propertyPath: fraskText
       value: 
-      objectReference: {fileID: 480025489}
+      objectReference: {fileID: 1198536637}
     - target: {fileID: 3557311940304209605, guid: ef802d64691d8db4eb0af354c49a21e6,
         type: 3}
       propertyPath: m_LocalPosition.x
